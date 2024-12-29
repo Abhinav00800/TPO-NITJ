@@ -7,7 +7,7 @@ const Placement = () => {
   return (
     <>
       <Header />
-      <Placements />
+      <Placements />  
       <Footer/>
 
     </>
